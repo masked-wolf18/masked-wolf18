@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @masked-wolf18
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harshwardhan.thakur57@gmail.com
 
 <!---
